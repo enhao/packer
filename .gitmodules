@@ -1,0 +1,3 @@
+[submodule "upx/upx-stubtools"]
+	path = upx/upx-stubtools
+	url = https://github.com/enhao/upx-stubtools.git
