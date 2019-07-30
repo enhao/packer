@@ -1,0 +1,4 @@
+01-Examples.patch
+02-Autoreconf.patch
+03-Reproducible-build.patch
+04-Static-assert.patch

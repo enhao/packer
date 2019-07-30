@@ -1,0 +1,5 @@
+# control file for the uscan(1) tool
+version=2
+opts=dversionmangle=s/\+repack$// \
+http://www.oberhumer.com/opensource/ucl/ \
+	(?:.*/)ucl-([\d\.]+)\.tar\.gz
