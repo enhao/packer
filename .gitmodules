@@ -4,3 +4,6 @@
 [submodule "upx/upx-lzma-sdk"]
 	path = upx/upx-lzma-sdk
 	url = https://github.com/enhao/upx-lzma-sdk.git
+[submodule "upx/upx"]
+	path = upx/upx
+	url = https://github.com/enhao/upx.git
